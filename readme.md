@@ -1,5 +1,5 @@
 # Usage
-   python ascii_art.py &ltimagepath&gt
+   `python ascii_art.py <imagepath>`
 
 # Requirements
 
