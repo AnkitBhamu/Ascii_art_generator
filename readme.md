@@ -1,4 +1,5 @@
-# Usage is "python ascii_art.py <image-path>
+# Usage
+   "python ascii_art.py <image-path>
 
 # Requirements
 
